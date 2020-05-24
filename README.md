@@ -1,2 +1,2 @@
-# html-css-coursera
-module 2
+# html-css-coursera.io
+
